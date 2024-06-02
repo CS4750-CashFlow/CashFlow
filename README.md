@@ -1,1 +1,2 @@
 # Expense-Tracker
+An Android app that helps you keep track of your monthly budget to spend. Allows the user to input their monthly budget, add to the expense list which shows a detailed list of different things they bought, and shows the user's spending analysis which shows a pie chart and a table of the different categories they spent money on as well as remaining budget. Also has a chat feature that just gives generic answers but I was trying to incorporate OpenAI's API to have ChatGPT to answer the questions.
