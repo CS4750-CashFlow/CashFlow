@@ -1,0 +1,206 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cs4750.team15.expensetracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <uses-feature
+13-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:7:5-8:35
+14        android:name="android.hardware.camera"
+14-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:7:19-57
+15        android:required="false" />
+15-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:8:9-33
+16
+17    <queries>
+17-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:40:5-48:15
+18        <intent>
+18-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:41:9-44:18
+19            <action android:name="android.intent.action.PICK" />
+19-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:42:13-64
+19-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:42:21-62
+20
+21            <data android:mimeType="vnd.android.cursor.dir/contact" />
+21-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:43:13-70
+21-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:43:19-68
+22        </intent>
+23        <intent>
+23-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:45:9-47:18
+24            <action android:name="adroid.media.action.IMAGE_CAPTURE" />
+24-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:46:13-71
+24-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:46:21-69
+25        </intent>
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.12.0] /Users/rickytseng/.gradle/caches/transforms-3/e0951d192b9eb8b5829b281f0e8ae350/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+29        android:name="com.cs4750.team15.expensetracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.12.0] /Users/rickytseng/.gradle/caches/transforms-3/e0951d192b9eb8b5829b281f0e8ae350/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.12.0] /Users/rickytseng/.gradle/caches/transforms-3/e0951d192b9eb8b5829b281f0e8ae350/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.cs4750.team15.expensetracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.12.0] /Users/rickytseng/.gradle/caches/transforms-3/e0951d192b9eb8b5829b281f0e8ae350/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.12.0] /Users/rickytseng/.gradle/caches/transforms-3/e0951d192b9eb8b5829b281f0e8ae350/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:10:5-39:19
+35        android:name="com.cs4750.team15.expensetracker.expenselist.ExpenseTrackerApplication"
+35-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:11:9-62
+36        android:allowBackup="true"
+36-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:12:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.12.0] /Users/rickytseng/.gradle/caches/transforms-3/e0951d192b9eb8b5829b281f0e8ae350/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:icon="@mipmap/ic_launcher"
+40-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:13:9-43
+41        android:label="@string/app_name"
+41-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:14:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:15:9-54
+43        android:supportsRtl="true"
+43-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:16:9-35
+44        android:testOnly="true"
+45        android:theme="@style/Theme.ExpenseTracker" >
+45-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:17:9-52
+46        <activity
+46-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:18:9-26:20
+47            android:name="com.cs4750.team15.expensetracker.MainActivity"
+47-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:19:13-41
+48            android:exported="true" >
+48-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:20:13-36
+49            <intent-filter>
+49-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:21:13-25:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:22:17-69
+50-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:22:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:24:17-77
+52-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:24:27-74
+53            </intent-filter>
+54        </activity>
+55
+56        <provider
+56-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:27:9-35:20
+57            android:name="androidx.core.content.FileProvider"
+57-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:28:13-62
+58            android:authorities="com.cs4750.team15.expensetracker.fileprovider"
+58-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:29:13-80
+59            android:exported="false"
+59-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:30:13-37
+60            android:grantUriPermissions="true" >
+60-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:31:13-47
+61            <meta-data
+61-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:32:13-34:48
+62                android:name="android.support.FILE_PROVIDER_PATHS"
+62-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:33:17-67
+63                android:resource="@xml/files" />
+63-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:34:17-46
+64        </provider>
+65
+66        <meta-data
+66-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:36:9-38:57
+67            android:name="preloaded_fonts"
+67-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:37:13-43
+68            android:resource="@array/preloaded_fonts" />
+68-->/Users/rickytseng/AndroidStudioProjects/CashFlow/app/src/main/AndroidManifest.xml:38:13-54
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+72            android:authorities="com.cs4750.team15.expensetracker.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.2.0] /Users/rickytseng/.gradle/caches/transforms-3/187f9fb980bf399a1093ca6b434d76f6/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/rickytseng/.gradle/caches/transforms-3/67d8e6801be84ae0dac9d28734636379/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/rickytseng/.gradle/caches/transforms-3/67d8e6801be84ae0dac9d28734636379/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/rickytseng/.gradle/caches/transforms-3/67d8e6801be84ae0dac9d28734636379/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+82                android:value="androidx.startup" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+83        </provider>
+84
+85        <uses-library
+85-->[androidx.window:window:1.0.0] /Users/rickytseng/.gradle/caches/transforms-3/c9c9e59edac32ce90d0379d0ebc29a8e/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+86            android:name="androidx.window.extensions"
+86-->[androidx.window:window:1.0.0] /Users/rickytseng/.gradle/caches/transforms-3/c9c9e59edac32ce90d0379d0ebc29a8e/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+87            android:required="false" />
+87-->[androidx.window:window:1.0.0] /Users/rickytseng/.gradle/caches/transforms-3/c9c9e59edac32ce90d0379d0ebc29a8e/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+88        <uses-library
+88-->[androidx.window:window:1.0.0] /Users/rickytseng/.gradle/caches/transforms-3/c9c9e59edac32ce90d0379d0ebc29a8e/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+89            android:name="androidx.window.sidecar"
+89-->[androidx.window:window:1.0.0] /Users/rickytseng/.gradle/caches/transforms-3/c9c9e59edac32ce90d0379d0ebc29a8e/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+90            android:required="false" />
+90-->[androidx.window:window:1.0.0] /Users/rickytseng/.gradle/caches/transforms-3/c9c9e59edac32ce90d0379d0ebc29a8e/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+91
+92        <service
+92-->[androidx.room:room-runtime:2.6.0] /Users/rickytseng/.gradle/caches/transforms-3/1454ed2ea62763560cae8a71f6b461fe/transformed/room-runtime-2.6.0/AndroidManifest.xml:24:9-28:63
+93            android:name="androidx.room.MultiInstanceInvalidationService"
+93-->[androidx.room:room-runtime:2.6.0] /Users/rickytseng/.gradle/caches/transforms-3/1454ed2ea62763560cae8a71f6b461fe/transformed/room-runtime-2.6.0/AndroidManifest.xml:25:13-74
+94            android:directBootAware="true"
+94-->[androidx.room:room-runtime:2.6.0] /Users/rickytseng/.gradle/caches/transforms-3/1454ed2ea62763560cae8a71f6b461fe/transformed/room-runtime-2.6.0/AndroidManifest.xml:26:13-43
+95            android:exported="false" />
+95-->[androidx.room:room-runtime:2.6.0] /Users/rickytseng/.gradle/caches/transforms-3/1454ed2ea62763560cae8a71f6b461fe/transformed/room-runtime-2.6.0/AndroidManifest.xml:27:13-37
+96
+97        <receiver
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+98            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+99            android:directBootAware="false"
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+100            android:enabled="true"
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+101            android:exported="true"
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+102            android:permission="android.permission.DUMP" >
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+104                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+105            </intent-filter>
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+107                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+110                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+113                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/rickytseng/.gradle/caches/transforms-3/f3e36c5dfe31cef3a1956f54b4965a4e/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+114            </intent-filter>
+115        </receiver>
+116    </application>
+117
+118</manifest>

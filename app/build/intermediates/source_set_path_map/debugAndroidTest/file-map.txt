@@ -1,0 +1,6 @@
+com.cs4750.team15.expensetracker.test.app-core-1.5.0-0 C:\Users\pablo\.gradle\caches\transforms-3\93aa6190403c9611dc810c3a5fc53aea\transformed\core-1.5.0\res
+com.cs4750.team15.expensetracker.test.app-annotation-experimental-1.3.0-1 C:\Users\pablo\.gradle\caches\transforms-3\a90c8436ff5aa8e2b846c4563661daff\transformed\annotation-experimental-1.3.0\res
+com.cs4750.team15.expensetracker.test.app-androidTest-2 C:\Users\pablo\OneDrive\Documents\Programming Projects\AndroidStudioProjects\ExpenseTracker\app\build\generated\res\resValues\androidTest\debug
+com.cs4750.team15.expensetracker.test.app-mergeDebugAndroidTestResources-3 C:\Users\pablo\OneDrive\Documents\Programming Projects\AndroidStudioProjects\ExpenseTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.cs4750.team15.expensetracker.test.app-mergeDebugAndroidTestResources-4 C:\Users\pablo\OneDrive\Documents\Programming Projects\AndroidStudioProjects\ExpenseTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.cs4750.team15.expensetracker.test.app-merged_res-5 C:\Users\pablo\OneDrive\Documents\Programming Projects\AndroidStudioProjects\ExpenseTracker\app\build\intermediates\merged_res\debugAndroidTest

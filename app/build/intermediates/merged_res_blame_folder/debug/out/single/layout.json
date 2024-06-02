@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/fragment_welcome_screen.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_welcome_screen.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/message.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/message.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/other_message.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/other_message.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/fragment_chat.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/my_message.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/my_message.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/list_item_expense.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/list_item_expense.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/fragment_spending_analysis.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_spending_analysis.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/fragment_expense_list.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_expense_list.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-mergeDebugResources-52:/layout/fragment_expense_detail.xml",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_expense_detail.xml"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cs4750.team15.expensetracker.app-mergeDebugResources-51:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/rickytseng/.gradle/caches/transforms-3/848b516e57ba6c6dfb9b6b86aaeb88b9/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

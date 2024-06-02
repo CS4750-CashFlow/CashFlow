@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_fragment_chat.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/menu_fragment_expense_detail.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/menu/fragment_expense_detail.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_michroma.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/michroma.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/menu_fragment_expense_list.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/menu/fragment_expense_list.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_seymour_one.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/seymour_one.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_lilita_one.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/lilita_one.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_palanquin_dark.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/palanquin_dark.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_other_message.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/other_message.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_message.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/message.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_syncopate_bold.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/syncopate_bold.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_cabin_bold.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/cabin_bold.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_secular_one.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/secular_one.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_circle.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_circle.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_logo.png.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/logo.png"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_open_sans.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/open_sans.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_sawarabi_mincho.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/sawarabi_mincho.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_fragment_spending_analysis.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_spending_analysis.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_open_sans_extrabold.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/open_sans_extrabold.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_menu_delete.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_menu_delete.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_my_message.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/my_message.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_joker.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_joker.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_rounded_corner.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/xml_files.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/xml/files.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_bevan.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/bevan.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_gelasio_bold.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/gelasio_bold.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_menu_add.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_menu_add.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_dm_mono_medium.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/dm_mono_medium.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_list_item_expense.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/list_item_expense.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_fragment_expense_list.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_expense_list.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_yantramanav_black.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/yantramanav_black.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_balsamiq_sans_bold.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/balsamiq_sans_bold.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_fragment_welcome_screen.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_welcome_screen.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/layout_fragment_expense_detail.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/layout/fragment_expense_detail.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/font_syncopate.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/font/syncopate.xml"
+    },
+    {
+        "merged": "com.cs4750.team15.expensetracker.app-merged_res-53:/drawable_ic_receipt.xml.flat",
+        "source": "com.cs4750.team15.expensetracker.app-main-55:/drawable/ic_receipt.xml"
+    }
+]

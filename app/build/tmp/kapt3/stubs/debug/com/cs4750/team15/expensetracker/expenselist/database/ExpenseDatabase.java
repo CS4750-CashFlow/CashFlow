@@ -1,0 +1,14 @@
+package com.cs4750.team15.expensetracker.expenselist.database;
+
+@kotlin.Metadata(mv = {1, 9, 0}, k = 1, xi = 48, d1 = {"\u0000\u0012\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\b\'\u0018\u00002\u00020\u0001B\u0005\u00a2\u0006\u0002\u0010\u0002J\b\u0010\u0003\u001a\u00020\u0004H&\u00a8\u0006\u0005"}, d2 = {"Lcom/cs4750/team15/expensetracker/expenselist/database/ExpenseDatabase;", "Landroidx/room/RoomDatabase;", "()V", "expenseDao", "Lcom/cs4750/team15/expensetracker/expenselist/database/ExpenseDao;", "app_debug"})
+@androidx.room.Database(entities = {com.cs4750.team15.expensetracker.expenselist.Expense.class}, version = 1)
+@androidx.room.TypeConverters(value = {com.cs4750.team15.expensetracker.expenselist.database.ExpenseTypeConverters.class})
+public abstract class ExpenseDatabase extends androidx.room.RoomDatabase {
+    
+    public ExpenseDatabase() {
+        super();
+    }
+    
+    @org.jetbrains.annotations.NotNull
+    public abstract com.cs4750.team15.expensetracker.expenselist.database.ExpenseDao expenseDao();
+}
